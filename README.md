@@ -1,4 +1,4 @@
-# EVA1_ZH_C
+# EVA1_ZH_C_2017
 Kettesig az alábbi feladatot kellett teljesíteni:
 
 A feladat, hogy egy 4,8,16 méretű sakktáblán,
