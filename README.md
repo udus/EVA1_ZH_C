@@ -1,7 +1,7 @@
 # EVA1_ZH_C
-KETTESIG
-A feladat, hogy egy 4,8,16 méretű sakktáblán:
+Kettesig az alábbi feladatot kellett teljesíteni:
 
+A feladat, hogy egy 4,8,16 méretű sakktáblán,
 
 1) Helyezzünk el középen lévő négy mezőre 2-2 X és O követ, hogy a kis négyzet átlóin egyforma színű kövek legyenek.
 2) Új követ akkor lehet lehelyezni, ha elkerítünk vele és egy másik saját kövünkkel egy sor követ az ellenféltől. Pl: X-O-O-O-X Itt X elkeríti 0 köveit.
